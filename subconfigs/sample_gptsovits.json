@@ -1,0 +1,13 @@
+{
+  "host": "http://localhost:9880",
+  "host_type": "gptsovitsv2",
+  "params": {
+    "source_key": "text",
+    "text": "先帝创业未半而中道崩殂，今天下三分，益州疲弊，此诚危急存亡之秋也。",
+    "cut_punc": ".?!。？！",
+    "text_language": "zh",
+    "refer_wav_path": "123.wav",
+    "prompt_language": "zh",
+    "prompt_text": "我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可"
+  }
+}

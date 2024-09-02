@@ -1,0 +1,10 @@
+{
+    "currentOption": "default",
+    "availableOptions": [
+        "default",
+        "sample_vits",
+        "sample_gptsovits",
+        "sample_gptsovits_v2"
+    ],
+    "enableTTSPreview": true
+}

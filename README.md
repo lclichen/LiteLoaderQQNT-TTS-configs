@@ -1,4 +1,5 @@
 # LiteLoaderQQNT-TTS-configs
+
 Example configurations for LiteLoaderQQNT-TTS.
 
 用于LiteLoaderQQNT-TTS插件针对各类TTS方法的子配置共享。
@@ -9,7 +10,11 @@ Example configurations for LiteLoaderQQNT-TTS.
 
 #### GPT-SoVITS
 
+示例参考：[https://github.com/RVC-Boss/GPT-SoVITS/blob/main/api.py](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/api.py)
+
 #### GPT-SoVITS-v2
+
+示例参考：[https://github.com/RVC-Boss/GPT-SoVITS/blob/main/api_v2.py](https://github.com/RVC-Boss/GPT-SoVITS/blob/main/api_v2.py)
 
 #### VITS
 
